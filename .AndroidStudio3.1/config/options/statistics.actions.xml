@@ -1,0 +1,106 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="3" />
+      <entry action="$Delete" count="15" />
+      <entry action="$Paste" count="2" />
+      <entry action="$SelectAll" count="23" />
+      <entry action="$Undo" count="462" />
+      <entry action="About" count="1" />
+      <entry action="Add library dependency" count="2" />
+      <entry action="Android Profiler" count="1" />
+      <entry action="Android.ExportProjectZip" count="7" />
+      <entry action="Android.RunAndroidAvdManager" count="24" />
+      <entry action="Android.RunAndroidSdkManager" count="16" />
+      <entry action="Android.SyncProject" count="20" />
+      <entry action="AndroidConnectDebuggerAction" count="14" />
+      <entry action="AutoIndentLines" count="6" />
+      <entry action="CheckForUpdate" count="1" />
+      <entry action="CheckinProject" count="7" />
+      <entry action="CleanGradleProject" count="21" />
+      <entry action="CloseProject" count="80" />
+      <entry action="CodeCompletion" count="1" />
+      <entry action="CollapseRegion" count="1" />
+      <entry action="CollapseSelection" count="2" />
+      <entry action="CommentByLineComment" count="2" />
+      <entry action="CopyAsPlainText" count="5" />
+      <entry action="CopyReference" count="1" />
+      <entry action="Create Local from Usage" count="1" />
+      <entry action="Cvs.BrowseCVSRepository" count="1" />
+      <entry action="Debug" count="7" />
+      <entry action="EditCustomVmOptions" count="2" />
+      <entry action="EditorBackSpace" count="6609" />
+      <entry action="EditorChooseLookupItem" count="10" />
+      <entry action="EditorCodeBlockEnd" count="2" />
+      <entry action="EditorCopy" count="233" />
+      <entry action="EditorCut" count="86" />
+      <entry action="EditorDelete" count="3622" />
+      <entry action="EditorDeleteLine" count="2" />
+      <entry action="EditorDown" count="534" />
+      <entry action="EditorEnter" count="996" />
+      <entry action="EditorEscape" count="1" />
+      <entry action="EditorLeft" count="254" />
+      <entry action="EditorLineEnd" count="25" />
+      <entry action="EditorLineEndWithSelection" count="3" />
+      <entry action="EditorLineStart" count="13" />
+      <entry action="EditorLineStartWithSelection" count="9" />
+      <entry action="EditorNextWord" count="41" />
+      <entry action="EditorNextWordWithSelection" count="62" />
+      <entry action="EditorPageDown" count="1" />
+      <entry action="EditorPaste" count="408" />
+      <entry action="EditorPreviousWord" count="40" />
+      <entry action="EditorPreviousWordWithSelection" count="51" />
+      <entry action="EditorRight" count="300" />
+      <entry action="EditorScrollDown" count="1" />
+      <entry action="EditorTab" count="103" />
+      <entry action="EditorTextStart" count="1" />
+      <entry action="EditorTextStartWithSelection" count="1" />
+      <entry action="EditorToggleInsertState" count="2" />
+      <entry action="EditorUp" count="681" />
+      <entry action="Exit" count="3" />
+      <entry action="ExpandRegion" count="1" />
+      <entry action="ExportSettings" count="2" />
+      <entry action="FileChooser.GotoDesktop" count="1" />
+      <entry action="FileChooser.GotoProject" count="1" />
+      <entry action="Find" count="5" />
+      <entry action="FindUsages" count="4" />
+      <entry action="Github.Share" count="7" />
+      <entry action="GotoAction" count="1" />
+      <entry action="GotoDeclaration" count="10" />
+      <entry action="ImportApkAction" count="1" />
+      <entry action="ImportSettings" count="1" />
+      <entry action="InvalidateCaches" count="5" />
+      <entry action="ManageRecentProjects" count="1" />
+      <entry action="NewModule" count="1" />
+      <entry action="NewProject" count="6" />
+      <entry action="OpenFile" count="18" />
+      <entry action="Pause" count="1" />
+      <entry action="Print" count="1" />
+      <entry action="RearrangeCode" count="24" />
+      <entry action="RebuildGradleProject" count="26" />
+      <entry action="ReformatCode" count="24" />
+      <entry action="Rerun" count="3" />
+      <entry action="Resume" count="3" />
+      <entry action="RevealIn" count="26" />
+      <entry action="Run" count="150" />
+      <entry action="SearchEverywhere" count="10" />
+      <entry action="SelectAllOccurrences" count="1" />
+      <entry action="ShowErrorDescription" count="3" />
+      <entry action="ShowSettings" count="13" />
+      <entry action="Start.Use.Vcs" count="3" />
+      <entry action="StepInto" count="27" />
+      <entry action="StepOver" count="23" />
+      <entry action="Stop" count="6" />
+      <entry action="Synchronize" count="1" />
+      <entry action="TemplateProjectProperties" count="1" />
+      <entry action="ToggleLineBreakpoint" count="24" />
+      <entry action="Vcs.QuickListPopupAction" count="3" />
+      <entry action="Vcs.RefreshStatuses" count="1" />
+      <entry action="Vcs.UpdateProject" count="4" />
+      <entry action="ViewBreakpoints" count="5" />
+      <entry action="XDebugger.MuteBreakpoints" count="4" />
+      <entry action="XDebugger.NewWatch" count="1" />
+      <entry action="XDebugger.SwitchWatchesInVariables" count="2" />
+    </counts>
+  </component>
+</application>

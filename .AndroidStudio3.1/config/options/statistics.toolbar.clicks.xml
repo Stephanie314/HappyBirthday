@@ -1,0 +1,50 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Android Profiler@NavBarToolbar" count="1" />
+      <entry action="Android.RunAndroidAvdManager@NavBarToolbar" count="24" />
+      <entry action="Android.RunAndroidSdkManager@NavBarToolbar" count="16" />
+      <entry action="Android.SyncProject@NavBarToolbar" count="16" />
+      <entry action="AndroidConnectDebuggerAction@NavBarToolbar" count="14" />
+      <entry action="Debug@NavBarToolbar" count="5" />
+      <entry action="FileChooser.GotoDesktop@FileChooserDialog" count="1" />
+      <entry action="FileChooser.GotoProject@FileChooserDialog" count="1" />
+      <entry action="Pause@DebuggerToolbar" count="1" />
+      <entry action="Print@AndroidLogcatView" count="1" />
+      <entry action="Rerun@DebuggerToolbar" count="2" />
+      <entry action="Rerun@RunnerToolbar" count="1" />
+      <entry action="Resume@DebuggerToolbar" count="3" />
+      <entry action="Run@NavBarToolbar" count="149" />
+      <entry action="StepInto@DebuggerToolbar" count="27" />
+      <entry action="StepOver@DebuggerToolbar" count="23" />
+      <entry action="Stop@DebuggerToolbar" count="3" />
+      <entry action="Stop@NavBarToolbar" count="1" />
+      <entry action="Stop@RunnerToolbar" count="2" />
+      <entry action="ViewBreakpoints@DebuggerToolbar" count="5" />
+      <entry action="XDebugger.MuteBreakpoints@DebuggerToolbar" count="4" />
+      <entry action="XDebugger.NewWatch@DebuggerToolbar" count="1" />
+      <entry action="XDebugger.SwitchWatchesInVariables@DebuggerToolbar" count="2" />
+      <entry action="com.android.tools.adtui.workbench.AttachedToolWindow$HideAction@TOOL_WINDOW_TOOLBAR" count="2" />
+      <entry action="com.android.tools.idea.common.actions.IssueNotificationAction@NlRhsConfigToolbar" count="3" />
+      <entry action="com.android.tools.idea.common.actions.SetZoomAction@NlRhsConfigToolbar" count="46" />
+      <entry action="com.android.tools.idea.configurations.DeviceMenuAction@toolbar" count="14" />
+      <entry action="com.android.tools.idea.configurations.OrientationMenuAction@toolbar" count="38" />
+      <entry action="com.android.tools.idea.configurations.TargetMenuAction@toolbar" count="23" />
+      <entry action="com.android.tools.idea.ddms.actions.ScreenRecorderAction@AndroidLogcatView" count="2" />
+      <entry action="com.android.tools.idea.ddms.actions.ScreenshotAction@AndroidLogcatView" count="3" />
+      <entry action="com.android.tools.idea.editors.strings.AddLocaleAction@TranslationsEditorToolbar" count="4" />
+      <entry action="com.android.tools.idea.fd.actions.HotswapAction@NavBarToolbar" count="190" />
+      <entry action="com.android.tools.idea.uibuilder.error.IssuePanel$MinimizeAction@unknown" count="1" />
+      <entry action="com.intellij.codeInsight.documentation.DockablePopupManager$3@JavadocToolbar" count="1" />
+      <entry action="com.intellij.codeInsight.documentation.DocumentationComponent$MyShowSettingsAction@JavadocInplaceSettings" count="1" />
+      <entry action="com.intellij.execution.ui.actions.CloseAction@DebuggerToolbar" count="1" />
+      <entry action="com.intellij.execution.ui.actions.CloseAction@RunnerToolbar" count="1" />
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="2" />
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="2" />
+      <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="1" />
+      <entry action="com.intellij.openapi.actionSystem.impl.ChameleonAction@NavBarToolbar" count="3" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="3" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="1" />
+    </counts>
+  </component>
+</application>

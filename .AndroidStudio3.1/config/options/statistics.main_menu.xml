@@ -1,0 +1,44 @@
+<application>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Build -&gt; Clean Project" count="21" />
+      <entry path="Build -&gt; Rebuild Project" count="26" />
+      <entry path="Code -&gt; Auto-Indent Lines" count="6" />
+      <entry path="Code -&gt; Rearrange Code" count="24" />
+      <entry path="Code -&gt; Reformat Code" count="24" />
+      <entry path="Edit -&gt; Find -&gt; Select All Occurrences" count="1" />
+      <entry path="File -&gt; Close Project" count="78" />
+      <entry path="File -&gt; Exit" count="3" />
+      <entry path="File -&gt; Export Settings..." count="2" />
+      <entry path="File -&gt; Export to Zip File..." count="7" />
+      <entry path="File -&gt; Import Settings..." count="1" />
+      <entry path="File -&gt; Invalidate Caches / Restart..." count="5" />
+      <entry path="File -&gt; New -&gt; New Module..." count="1" />
+      <entry path="File -&gt; New -&gt; New Project..." count="6" />
+      <entry path="File -&gt; New -&gt; Project from Version Control -&gt; GitHub" count="1" />
+      <entry path="File -&gt; Open Recent -&gt; Close Project" count="2" />
+      <entry path="File -&gt; Open Recent -&gt; Manage Projects..." count="1" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="10" />
+      <entry path="File -&gt; Open..." count="18" />
+      <entry path="File -&gt; Other Settings -&gt; Default Settings..." count="1" />
+      <entry path="File -&gt; Profile or Debug APK..." count="1" />
+      <entry path="File -&gt; Project Structure..." count="1" />
+      <entry path="File -&gt; Settings..." count="13" />
+      <entry path="File -&gt; Sync Project with Gradle Files" count="4" />
+      <entry path="File -&gt; Sync with File System" count="1" />
+      <entry path="Help -&gt; About" count="1" />
+      <entry path="Help -&gt; Check for Updates..." count="1" />
+      <entry path="Help -&gt; Edit Custom VM Options..." count="2" />
+      <entry path="Help -&gt; Find Action..." count="1" />
+      <entry path="Run -&gt; Debug" count="1" />
+      <entry path="Run -&gt; Run" count="1" />
+      <entry path="VCS -&gt; Browse VCS Repository -&gt; Browse CVS Repository..." count="1" />
+      <entry path="VCS -&gt; Commit" count="7" />
+      <entry path="VCS -&gt; Enable Version Control Integration..." count="3" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Share Project on GitHub" count="7" />
+      <entry path="VCS -&gt; Refresh File Status" count="1" />
+      <entry path="VCS -&gt; Update Project" count="4" />
+      <entry path="VCS -&gt; VCS Operations Popup..." count="3" />
+    </counts>
+  </component>
+</application>

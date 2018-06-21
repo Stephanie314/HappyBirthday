@@ -1,0 +1,46 @@
+<application>
+  <component name="ShortcutsCollector">
+    <counts>
+      <entry shortcut="Backspace" count="6600" />
+      <entry shortcut="Ctrl+A" count="26" />
+      <entry shortcut="Ctrl+B" count="1" />
+      <entry shortcut="Ctrl+C" count="233" />
+      <entry shortcut="Ctrl+Close Bracket" count="2" />
+      <entry shortcut="Ctrl+Down" count="1" />
+      <entry shortcut="Ctrl+Equals" count="1" />
+      <entry shortcut="Ctrl+F" count="5" />
+      <entry shortcut="Ctrl+F1" count="16" />
+      <entry shortcut="Ctrl+Home" count="1" />
+      <entry shortcut="Ctrl+Left" count="40" />
+      <entry shortcut="Ctrl+Minus" count="1" />
+      <entry shortcut="Ctrl+Period" count="2" />
+      <entry shortcut="Ctrl+Right" count="41" />
+      <entry shortcut="Ctrl+Shift+Home" count="1" />
+      <entry shortcut="Ctrl+Shift+Left" count="51" />
+      <entry shortcut="Ctrl+Shift+Right" count="62" />
+      <entry shortcut="Ctrl+Slash" count="2" />
+      <entry shortcut="Ctrl+Space" count="1" />
+      <entry shortcut="Ctrl+V" count="408" />
+      <entry shortcut="Ctrl+X" count="86" />
+      <entry shortcut="Ctrl+Y" count="2" />
+      <entry shortcut="Ctrl+Z" count="462" />
+      <entry shortcut="Delete" count="3623" />
+      <entry shortcut="Down" count="534" />
+      <entry shortcut="End" count="25" />
+      <entry shortcut="Enter" count="1025" />
+      <entry shortcut="Escape" count="1" />
+      <entry shortcut="Home" count="13" />
+      <entry shortcut="Insert" count="2" />
+      <entry shortcut="Left" count="254" />
+      <entry shortcut="Page Down" count="1" />
+      <entry shortcut="Right" count="300" />
+      <entry shortcut="Shift+Backspace" count="9" />
+      <entry shortcut="Shift+End" count="3" />
+      <entry shortcut="Shift+F9" count="1" />
+      <entry shortcut="Shift+Home" count="9" />
+      <entry shortcut="Shift+Shift" count="10" />
+      <entry shortcut="Tab" count="103" />
+      <entry shortcut="Up" count="681" />
+    </counts>
+  </component>
+</application>

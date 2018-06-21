@@ -1,0 +1,42 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="StripeButton[Android Profiler].hidden" count="61" />
+      <entry feature="StripeButton[Android Profiler].shown" count="49" />
+      <entry feature="StripeButton[Android_Profiler].hidden" count="53" />
+      <entry feature="StripeButton[Android_Profiler].shown" count="43" />
+      <entry feature="StripeButton[Version Control].shown" count="2" />
+      <entry feature="configure.code.style.on.selected.fragment" count="2" />
+      <entry feature="execute.AndroidRunConfigurationType.Android Profiler" count="1" />
+      <entry feature="execute.AndroidRunConfigurationType.Debug" count="30" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="651" />
+      <entry feature="execute.Remote.Debug" count="16" />
+      <entry feature="ide.settings.Android SDK" count="3" />
+      <entry feature="ide.settings.Android_SDK" count="8" />
+      <entry feature="ide.settings.Appearance" count="5" />
+      <entry feature="ide.settings.Auto Import" count="3" />
+      <entry feature="ide.settings.Auto_Import" count="5" />
+      <entry feature="ide.settings.GitHub" count="2" />
+      <entry feature="ide.settings.Menus_and_Toolbars" count="1" />
+      <entry feature="ide.settings.Project_Structure" count="1" />
+      <entry feature="ide.settings.System_Settings" count="1" />
+      <entry feature="idea.caches.invalidated" count="5" />
+      <entry feature="ideaapp.started" count="114" />
+      <entry feature="project.view.pane.AndroidView" count="1" />
+      <entry feature="project.view.pane.PackagesPane" count="1" />
+      <entry feature="project.view.pane.ProjectPane" count="7" />
+      <entry feature="project.view.pane.Scope.Project Files" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.AndroidStudio.apkProfilingAndDebugging" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="14" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="17" />
+      <entry feature="welcome.screen.WelcomeScreen.Documentation" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="11" />
+      <entry feature="welcome.screen.WelcomeScreen.GoogleCloudTools.SampleImport" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="6" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.RunAndroidSdkManager" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="6" />
+      <entry feature="welcome.screen.WelcomeScreen.Update" count="5" />
+    </counts>
+  </component>
+</application>
